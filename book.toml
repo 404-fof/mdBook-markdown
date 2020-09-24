@@ -1,0 +1,6 @@
+[book]
+authors = ["fof"]
+language = "jp"
+multilingual = false
+src = "src"
+title = "HogeFuga"
